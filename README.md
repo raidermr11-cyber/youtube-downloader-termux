@@ -24,3 +24,5 @@ termux-setup-storage
 pkg update && pkg upgrade -y
 pkg install python ffmpeg -y
 pip install -U yt-dlp
+git clone https://github.com/raidermr11-cyber/youtube-downloader-termux.git
+cd youtube-downloader-termux
